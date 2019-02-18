@@ -1,0 +1,3 @@
+Para utilizar o VI, vender a alma e depois, apertear I para começar a editar o arquivo.
+Para abrir o VI: vi nomeArquivo
+
