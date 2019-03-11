@@ -1,0 +1,5 @@
+1. C:\Program Files\Java\jdk1.8.0_162
+2. C:\Program Files\Java\jdk1.8.0_162\bin
+3. javac nome_classe.java Saída: nome_classe.class
+4. java nome_classe
+5. 
