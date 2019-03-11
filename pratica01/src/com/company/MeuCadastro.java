@@ -8,17 +8,19 @@ public class MeuCadastro {
         int idade;
         double salario;
         //Pega os dados do teclado
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in).useDelimiter("\n");
         boolean continuar = true;
         while(continuar) {
+            //scanner.reset();
             System.out.println("Informe o nome do usuário:");
-            nome = scanner.nextLine();
+            nome = scanner.next();
             System.out.println("Informe sua função:");
-            funcao = scanner.nextLine();
+            funcao = scanner.next();
             System.out.println("Informe sua idade:");
             idade = scanner.nextInt();
             System.out.println("Informe seu salário:");
             salario = scanner.nextDouble();
+            scanner.nextLine();
             System.out.printf(
                     "Nome: %s\nFunção:%s\nIdade:%d\nSalário: R$%.2f",
                     nome,   //Nome do usuário
