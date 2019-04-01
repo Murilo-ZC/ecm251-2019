@@ -25,6 +25,10 @@ public class Gerente {
     }
 
     public boolean aumentarSalarioBaseVendedor(Vendedor vendedor){
-
+        if(vendedor.getGerente().equals(this)){
+            return true;
+        } else {
+            return false;
+        }
     }
 }
