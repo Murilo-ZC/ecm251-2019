@@ -1,0 +1,21 @@
+Possibilidades de PAE:
+    - C# - estrutura (9)
+    - C# Windows Forms (3)
+    - C++ (11)
+    - Go Lang (8)
+    - Python Orientado Objeto (14)
+    - Programação Funcional (14)
+    - Processamento de Linguagens Naturais (2)
+    - Fluxo de desenvolvimento de projeto (boas práicas, métodos ageis) (12)
+    - Data Science - Python (14)
+    - Data Science - R (5)
+    - Flutter (18)
+
+-----------------------------------
+    - Flutter (18) - sabado 9h30 - quarta-livre - possibilidade colado as 13h
+    - Python Orientado Objeto (14)
+    - Programação Funcional (14)
+    - Data Science - Python (14)
+    - Fluxo de desenvolvimento de projeto (boas práicas, métodos ageis) (12)
+    - C++ e/ou C# (+-10)
+
